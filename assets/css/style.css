@@ -1,0 +1,75 @@
+#header{
+	background-color: #000;
+}
+
+
+
+
+#nav{
+	background-color: black;
+}
+#logo a{
+	color: #fff;
+}
+
+#body{
+	background-color: #ff7200;
+	background-image:linear-gradient(rgba(0,0,0,0.7),rgba(0,0,0,0.7)) , url('..//images/bus.jpg');
+	background-size: cover;
+	background-attachment: fixed;
+}
+
+.navtext li{
+	list-style: none;
+	margin-bottom: 30px;
+	text-decoration: none;
+}
+
+.navtext a{
+	color: #ff7200;
+	font-weight: bolder;
+}
+
+.navtext li a:hover{
+	color: #f9a602;
+	border-bottom: 2px solid #f9a602;
+	transition: all 0.5s ease-in;
+}
+
+.avatar {
+    vertical-align: justify;
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+    margin-left: 40px;
+}
+
+
+.rectangle{
+	width: 250px;
+	height: 150px;
+	background-color: #f9a602;
+	position: center;
+	margin-top: 50px;
+	margin-left: 30px
+}
+
+body {
+	background:#b6b6b6;
+	margin: 0;
+	padding: 0;
+	font-family: 'Arbutus Slab', serif;
+}
+
+.logout{
+	background-color: #f9a602;
+	margin: 20px;
+}
+
+.title{
+	color: #fff;
+}
+
+
+   
+    
